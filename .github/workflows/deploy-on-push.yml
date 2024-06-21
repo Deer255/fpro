@@ -32,7 +32,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: deerlu255/ccc
+          tags: deerlu255/fpro
       -
      
         name: copy file via ssh password
