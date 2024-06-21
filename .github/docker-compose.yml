@@ -1,6 +1,0 @@
-version: '3.3'
-services:  
-  frontend:
-    image: deerlu255/ccc
-    ports:
-      - "8081:80"
